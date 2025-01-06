@@ -138,18 +138,5 @@ validateForm("contact-form-2", "name-2", "phone-2", "name-error", "phone-error",
 
 
 
-// const scriptURL = 'https://script.google.com/macros/s/AKfycbzimi7yXqusuygOYk8bYkjAJhvJDrGSu9yOxi4SJsj57VqA-Q51GLqXaHJYZNO3qu0E/exec'
-
-// const form = document.forms['contact-form']
-
-// form.addEventListener('submit', e => {
-//   e.preventDefault()
-  
-  
-//   fetch(scriptURL, { method: 'POST', body: new FormData(form)})
-//   .then(response => alert("Thank you! Form is submitted" ))
-//   .then(() => { window.location.reload(); })
-//   .catch(error => console.error('Error!', error.message))
-// })
 
 
