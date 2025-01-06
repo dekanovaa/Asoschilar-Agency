@@ -466,12 +466,13 @@ body {
 }
 
 .hero-col {
-    background-image: url(../image/hero/);
+    background-image: url(../image/hero/bg-img.jpg);
     background-size: contain;
     width: 901px;
     height: 602px;
     position: relative;
     margin-left: auto;
+    border-radius: 76px;
 
 }
 
